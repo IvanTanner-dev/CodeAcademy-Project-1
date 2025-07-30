@@ -13,12 +13,15 @@ This is a beginner-friendly project built using HTML, CSS, and JavaScript, aimed
 📱 Responsive design for desktop and mobile
 🛠️ Built With:
 
-  HTML – Page structure
-  CSS – Custom styling with hover and feedback effects
-  JavaScript – Logic for quiz flow, scoring, and interactivity
+    HTML – Page structure
+    CSS – Custom styling with hover and feedback effects
+    JavaScript – Logic for quiz flow, scoring, and interactivity
 
 📂 File Structure
 
+bash
+Copy
+Edit
 .
 ├── index.html # Main HTML structure
 ├── script.js # JavaScript logic for quiz functionality
