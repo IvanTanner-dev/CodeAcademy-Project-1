@@ -145,6 +145,7 @@ function showScore() {
 }
 
 // Proceed to next question or show score
+
 function handleNextButton() {
   currentQuestionIndex++;
   if (currentQuestionIndex < questions.length) {
@@ -154,15 +155,8 @@ function handleNextButton() {
   }
 }
 
-// Next button click handler
-nextButton.addEventListener("click", () => {
-  if (currentQuestionIndex < questions.length - 1) {
-    handleNextButton();
-  } else {
-    startGame(); // Restart the game on "Play Again"
-  }
-});
 
+// Event listener for the Next button
 nextButton.addEventListener("click", () => {
   // If we're still in the middle of the quiz
   if (currentQuestionIndex < questions.length) {
