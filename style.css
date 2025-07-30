@@ -95,3 +95,21 @@ body {
     background: #540303;
     color: #fff;
 }
+
+/* Footer styling */
+.footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+    color: #ffffff;
+    font-size: 16px;
+}
+
+.footer a {
+    color: #00cfff;
+    text-decoration: underline;
+}
+
+.footer a:hover {
+    color: #66e0ff;
+}
