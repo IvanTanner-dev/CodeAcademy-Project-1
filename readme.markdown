@@ -24,6 +24,7 @@ Copy
 Edit
 .
 ├── index.html # Main HTML structure
+├── How-To.htmal # HTML for user instructions
 ├── script.js # JavaScript logic for quiz functionality
 ├── style.css # Styling for layout, colors, and animations
 └── README.md # Project overview and details (this file)
@@ -60,3 +61,4 @@ Integrate a leaderboard or user login
 
 If you try the quiz, I’d love to hear what you think or if you guessed all answers correctly! 😊
 Would you like this turned into a downloadable file, or want to include a GitHub-style badges section at the top?
+
